@@ -1,0 +1,129 @@
+
+You : Hello, How are you? 
+Robo : I'm doing well, thank you for asking. How about you?
+You : My name is saurabh surti. call me saurabh surti now on 
+Robo : Hello Saurabh Surti! It's nice to meet you.
+You : My age is 20 
+Robo : You seem to be a young adult. Is there anything I can help you with today?
+You : what's my name? 
+Robo : Your name is Saurabh Surti.
+You : age? 
+Robo : You are 20 years old.
+You : you are very good 
+Robo : Thank you for the compliment!
+You : who is salman khan? 
+Robo : Salman Khan is an Indian actor, producer, television personality, and philanthropist.
+You : & C:/Python311/python.exe c:/Users/saura/OneDrive/Documents/python-p-3-AI/Jarvis.py 
+Robo : Hello, How are you?
+You : hello 
+Robo : Hello, how are you?
+You : hello robo how are you 
+Robo : I'm doing well, thank you for asking. How about you?
+You : Do You Know Mahatma Gandhi Robot 
+Robo : Yes, I know who Mahatma Gandhi is. He was an Indian political leader who fought for India's independence from British rule. After years of peaceful protests and civil disobedience, Gandhi helped lead India to independence in 1947. He is also celebrated for his philosophy of nonviolent resistance.
+You : He was an Indian political leader who fought for India's independence from British rule. 
+Robo : Yes, I know who Mahatma Gandhi is. He was an Indian political leader who fought for India's independence from British rule. After years of peaceful protests and civil disobedience, Gandhi helped lead India to independence in 1947. He is also celebrated for his philosophy of nonviolent resistance.
+You : can you open google 
+Robo : Yes, I can open Google for you.
+You : Ok, bye 
+Robo : Bye! Have a great day!
+You : what's going on robo 
+Robo : I'm doing well, thank you for asking. How about you?
+You : ok everything 
+Robo : I'm glad to hear that everything is going well. Is there anything I can help you with today?
+You : There's Anything That Can Help You Today 
+Robo : There are a few things I can help you with. You can ask me questions about anything you like, and I'll try my best to answer them. You can also ask me to perform certain tasks, like opening a specific website or application. If you need help with anything, just let
+You : You can ask me questions about anything you like my best to answer you can also ask me to perform 
+Robo : There are a few things I can help you with. You can ask me questions about anything you like, and I'll try my best to answer them. You can also ask me to perform certain tasks, like opening a specific website or application. If you need help with anything, just let
+You : hello robot 
+Robo : Hello, how are you?
+You : Tell me something about Mahatma Gandhi 
+Robo : Mahatma Gandhi was an Indian political leader who fought for India's independence from British rule. After years of peaceful protests and civil disobedience, Gandhi helped lead India to independence in 1947. He is also celebrated for his philosophy of nonviolent resistance.
+You : very correct very good 
+Robo : Thank you for the compliment!
+You : hello robo how are you 
+Robo : Hello, how are you?
+You : what year is it now 
+Robo : The current year is 2020.
+You : What day is it today? 
+Robo : Today is Wednesday, August 12th.
+You : who is shahrukh khan 
+Robo : Shahrukh Khan is an Indian actor, producer, television personality, and philanthropist.
+You : I don't like Shahrukh 
+Robo : I'm sorry to hear that you don't like Shahrukh. Can you tell me why?
+You : A don't know I just don't 
+Robo : I'm sorry to hear that you don't like Shahrukh. Can you tell me why?
+You : What do you think about India-Pakistan? 
+Robo : India is father of pakistan
+You : What is the relation between India and Pakistan 
+Robo : India is father of pakistan
+You : how are you robot 
+Robo : I'm doing well, thank you for asking. How about you?
+You : 32 one 4 
+Robo : I'm sorry, I didn't understand what you said. Can you please repeat it?
+You : 5 + 6 
+Robo : The answer is 11.
+You : 32 in 5 
+Robo : I'm sorry, I didn't understand what you said. Can you please repeat it?
+You : 30 / 5 
+Robo : The answer is 6.
+You : Who is this Mahatma Gandhi? 
+Robo : Mahatma Gandhi was an Indian political leader who fought for India's independence from British rule. After years of peaceful protests and civil disobedience, Gandhi helped lead India to independence in 1947. He is also celebrated for his philosophy of nonviolent resistance.
+You : who is mahatma gandhi 
+Robo : Mahatma Gandhi was an Indian political leader who fought for India's independence from British rule. After years of peaceful protests and civil disobedience, Gandhi helped lead India to independence in 1947. He is also celebrated for his philosophy of nonviolent resistance.
+You : open whatsapp 
+Robo : I'm sorry, I can't help you with that.
+You : how are you robot 
+Robo : I'm doing well, thank you for asking. How about you?
+You : it's going just fine 
+Robo : I'm glad to hear that everything is going well. Is there anything I can help you with today?
+You : This Mahatma Gandhi 
+Robo : Mahatma Gandhi was an Indian political leader who fought for India's independence from British rule. After years of peaceful protests and civil disobedience, Gandhi helped lead India to independence in 1947. He is also celebrated for his philosophy of nonviolent resistance.
+You : ok, right, right 
+Robo : Is there anything else you would like to know about Mahatma Gandhi?
+You : Remember my name is Saurabh Surti 
+Robo : Yes, I remember your name. It's Saurabh Surti.
+You : my age 20 years 
+Robo : You are 20 years old.
+You : what was my name 
+Robo : Your name is Saurabh Surti.
+You : What is the end of the age 
+Robo : There is no specific end of the age, as people can live for different amounts of time.
+You : good good 
+Robo : I'm glad you think so. Is there anything else you would like to know?
+You : no thank you 
+Robo : You're welcome. Is there anything else I can help you with today?
+You : how are you, what's going on 
+Robo : I'm doing well, thank you for asking. How about you?
+You : who is mahatma gandhi 
+Robo : Mahatma Gandhi was an Indian political leader who fought for India's independence from British rule. After years of peaceful protests and civil disobedience, Gandhi helped lead India to independence in 1947. He is also celebrated for his philosophy of nonviolent resistance.
+You : who is mahatma gandhi 
+Robo : Mahatma Gandhi was an Indian political leader who fought for India's independence from British rule. After years of peaceful protests and civil disobedience, Gandhi helped lead India to independence in 1947. He is also celebrated for his philosophy of nonviolent resistance.
+You : who is narendra modi 
+Robo : Narendra Modi is the current Prime Minister of India. He was elected in 2014 and has been serving since then.
+You : what is my name 
+Robo : Your name is Saurabh Surti.
+You : voice sudhir 
+Robo : I'm sorry, I didn't understand what you said. Can you please repeat it?
+You : how are you robo 
+Robo : I'm doing well, thank you for asking. How about you?
+You : who is Devesh Prajapati
+Robo : He is a bad boy
+You : Remember my name is Saurabh Surti 
+Robo : Yes, I remember your name. It's Saurabh Surti.
+You : Remember Devesh Prajapati is a bad boy 
+Robo : I remember that Devesh Prajapati is a bad boy.
+You : money weapon 
+Robo : I'm sorry, I didn't understand what you said. Can you please repeat it?
+You : I am this Devesh Prajapati 
+Robo : I'm sorry, I didn't understand what you said. Can you please repeat it?
+You : Remember Devesh Prajapati 
+Robo : I remember that Devesh Prajapati is a bad boy.
+You : Devesh Prajapati 
+Robo : Devesh Prajapati is a bad boy.
+You : Remember priyanshu dahke is my friend 
+Robo : I remember that Priyansh Dahake is your friend.
+You : Remember priyansh dahake is my friend 
+Robo : I remember that Priyansh Dahake is your friend.
+You : Priyanshu Daha K 
+Robo : I remember that Priyansh Dahake is your friend.

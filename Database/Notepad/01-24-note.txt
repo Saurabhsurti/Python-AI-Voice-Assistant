@@ -1,0 +1,7 @@
+p-1 - multivendor
+Spearheaded the creation of a scalable start-up by designing and implementing a feature-rich, full-stack application with role-based access, empowering administrators and users alike, resulting in a 50% reduction in operational costs and rapid business growth.
+
+
+p-2 - Books order website
+Spearheaded the implementation of an exceptional front-end project, leveraging industry-leading icon libraries and crafting a visually stunning UI for an online bookstore, resulting in a 40% increase in user engagement and improved conversion rates
+

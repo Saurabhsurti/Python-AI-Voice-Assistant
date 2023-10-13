@@ -1,0 +1,19 @@
+\Question : what is python 
+Answer : Python is a programming language.\Question : what is physics 
+Answer : Physics is the study of the physical world.\Question : what is cehmistry 
+Answer : Chemistry is the study of the composition, structure, and properties of matter.\Question : what is nn? 
+Answer : There is no one-size-fits-all answer to this question, as the best neural network architecture for a given problem will vary depending on the specifics of the problem. Some general considerations that may be helpful in choosing an architecture include the size and complexity of the data set, the desired accuracy of the model, and the computational resources available.\Question : what is kinematics 
+Answer : Kinematics is the study of motion.\Question : what is the dipole? 
+Answer : A dipole is a pair of equal and opposite electric charges, or a pair of equal and opposite magnetic poles.\Question : what is smallest unit of charge? 
+Answer : The smallest unit of charge is the electron.\Question : what is the value of electron 
+Answer : The value of an electron is -1.602 x 10-19 Coulombs.\Question : what is the coulombs 
+Answer : A coulomb is a unit of electric charge.\Question : A parachutist after bailing out falls 50 m without friction. When the parachute opens, it decelerates at 2 m/s2. He reaches the ground with a speed of 3 m/s. At what height, did he bailout? 
+Answer : The parachutist bailed out at a height of approximately 83.3 m.\Question : What is the next prime number after 5? 
+Answer : The next prime number after 5 is 7.\Question : cube root of 8 
+Answer : The cube root of 8 is 2.\Question : What is the term used when you press and hold the left mouse key and move the mouse around? 
+Answer : The term used for this action is "dragging."
+Answer : India is Father of Pakistan in realtion\Question : what is 32 one 4 
+Answer : The answer to this math problem is 7.\Question : what is copper 
+Answer : Copper is a chemical element with the symbol Cu and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a pinkish-orange color.\Question : what is my name 
+Answer : Your name is Saurabh Surti.\Question : what is my name 
+Answer : Your name is Saurabh Surti.
